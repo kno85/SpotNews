@@ -21,16 +21,17 @@ Web	Android	iOS
 	
 🚀 Cómo ejecutar
 # Clonar repositorio
-git clone https://github.com/tuusuario/elpais-rss-flutter.git
+git clone https://github.com/kno85/SpotNews.git
 
 # Entrar al proyecto
-cd elpais-rss-flutter
+cd SpotNews
 
 # Instalar dependencias
 flutter pub get
 
 # Ejecutar en el dispositivo/emulador
 flutter run
+
 
 📦 Tecnologías utilizadas
 
